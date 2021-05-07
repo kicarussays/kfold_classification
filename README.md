@@ -7,6 +7,6 @@ type: numpy array
 
 shape: (# of data, # of Variables + 1)
 
-
-### 
-Last Column must be label(Class; y value)
+###    
+###    
+### Last Column must be label(Class; y value)
