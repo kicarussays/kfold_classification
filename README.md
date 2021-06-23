@@ -2,7 +2,7 @@
 Function for k-fold classification
 (This function divides dataset according to the class ratio.)
 
-## > Input file format:
+> Input file format:
 
 type: numpy array
 
